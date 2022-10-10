@@ -1,1 +1,1 @@
-# hugo-auto-deploy
+# hugo-s3-auto-deploy
